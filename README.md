@@ -1,5 +1,5 @@
-## Aplicacion React con Authenticacion
-Tecnologias usadas:
+## Aplicación React con Autenticación
+Tecnologías usadas:
 ```
 - React
 - Typescript
