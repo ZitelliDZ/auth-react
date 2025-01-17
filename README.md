@@ -1,5 +1,6 @@
 ## Aplicacion React con Authenticacion
 Tecnologias usadas:
+```
 - React
 - Typescript
 - TailwindCSS
@@ -14,7 +15,7 @@ Tecnologias usadas:
 - Cors
 - Jsonwebtoken
 - Nodemailer
-
+```
 ## Presentacion
 
 
